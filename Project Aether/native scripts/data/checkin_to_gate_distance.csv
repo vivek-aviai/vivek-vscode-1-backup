@@ -1,0 +1,706 @@
+checkin_counter,gateNumber,distance,time
+jetBlue Check-In,A3H,279,5
+jetBlue Check-In,A3G,298,5
+jetBlue Check-In,A3F,310,5
+jetBlue Check-In,A3E,349,6
+jetBlue Check-In,A3D,385,6
+jetBlue Check-In,A3C,379,6
+jetBlue Check-In,A3B,364,6
+jetBlue Check-In,A3A,329,6
+jetBlue Check-In,A15,351,6
+jetBlue Check-In,A14,363,6
+jetBlue Check-In,A12,327,5
+jetBlue Check-In,A11,303,5
+jetBlue Check-In,A10,290,5
+jetBlue Check-In,A9,273,4
+jetBlue Check-In,A8,244,4
+jetBlue Check-In,A7,212,3
+jetBlue Check-In,A2,225,3
+jetBlue Check-In,A1,185,3
+jetBlue Check-In,A17,554,9
+jetBlue Check-In,A18,585,9
+jetBlue Check-In,A19,593,10
+jetBlue Check-In,A20,584,9
+jetBlue Check-In,A24,577,9
+jetBlue Check-In,A25,468,8
+jetBlue Check-In,A26,502,8
+jetBlue Check-In,A27,539,9
+jetBlue Check-In,A29,545,9
+jetBlue Check-In,A30,551,9
+jetBlue Check-In,B76,963,12
+jetBlue Check-In,B77,961,12
+jetBlue Check-In,B79,959,12
+jetBlue Check-In,B80,960,12
+jetBlue Check-In,B81,962,12
+jetBlue Check-In,B83,964,12
+jetBlue Check-In,B85,1007,13
+jetBlue Check-In,B86,1007,13
+jetBlue Check-In,B86A,1007,13
+jetBlue Check-In,B87,1008,13
+jetBlue Check-In,B88,1009,13
+jetBlue Check-In,B11,1068,14
+jetBlue Check-In,B1,1123,15
+jetBlue Check-In,B10,1137,16
+jetBlue Check-In,B2,1157,16
+jetBlue Check-In,B9,1171,16
+jetBlue Check-In,B3,1195,17
+jetBlue Check-In,B8,1211,17
+jetBlue Check-In,B4,1230,17
+jetBlue Check-In,B7,1245,17
+jetBlue Check-In,B6,1241,17
+jetBlue Check-In,B5,1245,17
+jetBlue Check-In,B20,1039,14
+jetBlue Check-In,B12,1052,14
+jetBlue Check-In,B19,1058,14
+jetBlue Check-In,B14,1087,15
+jetBlue Check-In,B18,1095,15
+jetBlue Check-In,B15,1114,15
+jetBlue Check-In,B17,1127,15
+jetBlue Check-In,B16,1122,15
+jetBlue Check-In,B21,1087,15
+jetBlue Check-In,B31,1112,15
+jetBlue Check-In,B30,1134,16
+jetBlue Check-In,B22,1155,16
+jetBlue Check-In,B29,1173,16
+jetBlue Check-In,B23,1193,17
+jetBlue Check-In,B28,1208,17
+jetBlue Check-In,B24,1232,17
+jetBlue Check-In,B27,1245,17
+jetBlue Check-In,B26,1246,17
+jetBlue Check-In,B25,1249,17
+jetBlue Check-In,B85A,1007,13
+jetBlue Check-In,B83A ,unknown,unknown
+jetBlue Check-In,B81A,962,12
+jetBlue Check-In,B77A,961,12
+jetBlue Check-In,B76A,963,12
+jetBlue Check-In,B79A,959,12
+jetBlue Check-In,C1,1534,15
+jetBlue Check-In,C2,1591,16
+jetBlue Check-In,C29,1794,19
+jetBlue Check-In,C30,1798,20
+jetBlue Check-In,C31,1774,19
+jetBlue Check-In,C32,1738,19
+jetBlue Check-In,C33,1701,18
+jetBlue Check-In,C34,1662,17
+jetBlue Check-In,C35,1696,18
+jetBlue Check-In,C36,1730,18
+jetBlue Check-In,C37,1751,19
+jetBlue Check-In,C39,1758,19
+jetBlue Check-In,C40,1741,19
+jetBlue Check-In,C41,1712,18
+jetBlue Check-In,C42,1679,18
+jetBlue Check-In,C43,1684,18
+jetBlue Check-In,C44,1727,18
+jetBlue Check-In,C45,1765,19
+jetBlue Check-In,C3,1627,17
+jetBlue Check-In,C4,1782,19
+jetBlue Check-In,C5,1820,20
+jetBlue Check-In,C6,1877,21
+jetBlue Check-In,C7,1915,21
+jetBlue Check-In,C8,1915,21
+jetBlue Check-In,C9,1909,21
+jetBlue Check-In,C10,1868,21
+jetBlue Check-In,C11,1831,20
+jetBlue Check-In,C12,1764,19
+jetBlue Check-In,C14,1232,18
+jetBlue Check-In,C15,1176,17
+jetBlue Check-In,D1,1550,15
+jetBlue Check-In,D2,1579,16
+jetBlue Check-In,D3,1599,16
+jetBlue Check-In,D4,1781,19
+jetBlue Check-In,D5,1780,19
+jetBlue Check-In,D6,2131,19
+jetBlue Check-In,D7,2047,18
+jetBlue Check-In,D8,2060,18
+jetBlue Check-In,D9,2123,19
+jetBlue Check-In,D10,2183,20
+jetBlue Check-In,D11,2182,20
+jetBlue Check-In,D12,2178,20
+jetBlue Check-In,D9A,2127,19
+jetBlue Check-In,E1,2369,23
+jetBlue Check-In,E2,2389,24
+jetBlue Check-In,E3,2407,24
+jetBlue Check-In,E4,2449,25
+jetBlue Check-In,E5,2478,25
+jetBlue Check-In,E6,2471,25
+jetBlue Check-In,E7,2471,25
+jetBlue Check-In,E8,2437,25
+jetBlue Check-In,E9,2401,24
+jetBlue Check-In,E10,2236,21
+jetBlue Check-In,E11,2220,21
+jetBlue Check-In,E12,2144,20
+jetBlue Check-In,E14,2188,20
+jetBlue Check-In,E24,2273,22
+jetBlue Check-In,E23,2298,22
+jetBlue Check-In,E15,2326,23
+jetBlue Check-In,E16,2373,23
+jetBlue Check-In,E17,2396,24
+jetBlue Check-In,E18,2435,24
+jetBlue Check-In,E19,2426,24
+jetBlue Check-In,E20,2384,24
+jetBlue Check-In,E21,2367,23
+jetBlue Check-In,E22,2341,23
+United Economy Check-In,A3H,872,12
+United Economy Check-In,A3G,891,13
+United Economy Check-In,A3F,903,13
+United Economy Check-In,A3E,942,14
+United Economy Check-In,A3D,978,14
+United Economy Check-In,A3C,972,14
+United Economy Check-In,A3B,957,14
+United Economy Check-In,A3A,922,13
+United Economy Check-In,A15,944,13
+United Economy Check-In,A14,956,14
+United Economy Check-In,A12,920,13
+United Economy Check-In,A11,896,13
+United Economy Check-In,A10,882,12
+United Economy Check-In,A9,2415,30
+United Economy Check-In,A8,2387,30
+United Economy Check-In,A7,2355,29
+United Economy Check-In,A2,2286,28
+United Economy Check-In,A1,2246,27
+United Economy Check-In,A17,835,26
+United Economy Check-In,A18,866,26
+United Economy Check-In,A19,874,26
+United Economy Check-In,A20,865,26
+United Economy Check-In,A24,858,26
+United Economy Check-In,A25,825,25
+United Economy Check-In,A26,858,26
+United Economy Check-In,A27,895,27
+United Economy Check-In,A29,902,27
+United Economy Check-In,A30,907,27
+United Economy Check-In,B76,1930,26
+United Economy Check-In,B77,1928,26
+United Economy Check-In,B79,1926,26
+United Economy Check-In,B80,1927,26
+United Economy Check-In,B81,1929,26
+United Economy Check-In,B83,1931,26
+United Economy Check-In,B85,1974,29
+United Economy Check-In,B86,1974,29
+United Economy Check-In,B86A,1974,29
+United Economy Check-In,B87,1975,29
+United Economy Check-In,B88,1976,29
+United Economy Check-In,B11,2035,30
+United Economy Check-In,B1,2090,31
+United Economy Check-In,B10,2105,31
+United Economy Check-In,B2,2124,32
+United Economy Check-In,B9,2138,32
+United Economy Check-In,B3,2162,32
+United Economy Check-In,B8,2178,32
+United Economy Check-In,B4,2197,33
+United Economy Check-In,B7,2212,33
+United Economy Check-In,B6,2208,33
+United Economy Check-In,B5,2212,33
+United Economy Check-In,B20,2006,30
+United Economy Check-In,B12,2019,30
+United Economy Check-In,B19,2025,30
+United Economy Check-In,B14,2054,30
+United Economy Check-In,B18,2062,31
+United Economy Check-In,B15,2081,31
+United Economy Check-In,B17,2094,31
+United Economy Check-In,B16,2089,31
+United Economy Check-In,B21,2054,30
+United Economy Check-In,B31,2079,31
+United Economy Check-In,B30,2101,31
+United Economy Check-In,B22,2122,32
+United Economy Check-In,B29,2140,32
+United Economy Check-In,B23,2160,34
+United Economy Check-In,B28,2175,34
+United Economy Check-In,B24,2199,35
+United Economy Check-In,B27,2212,35
+United Economy Check-In,B26,2213,35
+United Economy Check-In,B25,2216,35
+United Economy Check-In,B85A,1974,31
+United Economy Check-In,B83A ,unknown,unknown
+United Economy Check-In,B81A,1929,30
+United Economy Check-In,B77A,1928,30
+United Economy Check-In,B76A,1930,30
+United Economy Check-In,B79A,1926,30
+United Economy Check-In,C1,1146,23
+United Economy Check-In,C2,1203,24
+United Economy Check-In,C29,1281,25
+United Economy Check-In,C30,1286,26
+United Economy Check-In,C31,1261,25
+United Economy Check-In,C32,1226,25
+United Economy Check-In,C33,1189,24
+United Economy Check-In,C34,1150,23
+United Economy Check-In,C35,1183,24
+United Economy Check-In,C36,1218,24
+United Economy Check-In,C37,1239,25
+United Economy Check-In,C39,1245,25
+United Economy Check-In,C40,1229,25
+United Economy Check-In,C41,1199,24
+United Economy Check-In,C42,1167,24
+United Economy Check-In,C43,1172,24
+United Economy Check-In,C44,1215,24
+United Economy Check-In,C45,1252,25
+United Economy Check-In,C3,1239,25
+United Economy Check-In,C4,1394,27
+United Economy Check-In,C5,1432,28
+United Economy Check-In,C6,1489,29
+United Economy Check-In,C7,1527,30
+United Economy Check-In,C8,1527,30
+United Economy Check-In,C9,1521,29
+United Economy Check-In,C10,1480,29
+United Economy Check-In,C11,1443,28
+United Economy Check-In,C12,1376,27
+United Economy Check-In,C14,1421,28
+United Economy Check-In,C15,1472,29
+United Economy Check-In,D1,1162,23
+United Economy Check-In,D2,1191,24
+United Economy Check-In,D3,1211,24
+United Economy Check-In,D4,1393,27
+United Economy Check-In,D5,1392,27
+United Economy Check-In,D6,1445,28
+United Economy Check-In,D7,1788,29
+United Economy Check-In,D8,1801,29
+United Economy Check-In,D9,1863,30
+United Economy Check-In,D10,1924,31
+United Economy Check-In,D11,1923,31
+United Economy Check-In,D12,1919,31
+United Economy Check-In,D9A,1868,30
+United Economy Check-In,E1,2110,34
+United Economy Check-In,E2,2130,34
+United Economy Check-In,E3,2148,35
+United Economy Check-In,E4,2190,35
+United Economy Check-In,E5,2218,36
+United Economy Check-In,E6,2212,36
+United Economy Check-In,E7,2212,36
+United Economy Check-In,E8,2178,35
+United Economy Check-In,E9,2142,35
+United Economy Check-In,E10,1977,32
+United Economy Check-In,E11,1961,32
+United Economy Check-In,E12,1885,30
+United Economy Check-In,E14,1928,31
+United Economy Check-In,E24,2013,32
+United Economy Check-In,E23,2039,33
+United Economy Check-In,E15,2066,33
+United Economy Check-In,E16,2114,34
+United Economy Check-In,E17,2137,35
+United Economy Check-In,E18,3189,43
+United Economy Check-In,E19,3181,43
+United Economy Check-In,E20,3139,42
+United Economy Check-In,E21,3122,42
+United Economy Check-In,E22,3096,41
+United Check-In,A3H,1830,31
+United Check-In,A3G,1850,31
+United Check-In,A3F,1862,31
+United Check-In,A3E,1901,32
+United Check-In,A3D,1936,32
+United Check-In,A3C,1930,32
+United Check-In,A3B,1916,32
+United Check-In,A3A,1881,31
+United Check-In,A15,1984,33
+United Check-In,A14,1996,33
+United Check-In,A12,1960,32
+United Check-In,A11,1936,32
+United Check-In,A10,1923,32
+United Check-In,A9,1906,31
+United Check-In,A8,1877,31
+United Check-In,A7,1845,30
+United Check-In,A2,1776,29
+United Check-In,A1,1736,29
+United Check-In,A17,1541,25
+United Check-In,A18,1572,26
+United Check-In,A19,1580,26
+United Check-In,A20,1571,26
+United Check-In,A24,1564,26
+United Check-In,A25,1531,25
+United Check-In,A26,1565,26
+United Check-In,A27,1602,26
+United Check-In,A29,1608,27
+United Check-In,A30,1613,27
+United Check-In,B76,1112,21
+United Check-In,B77,1109,21
+United Check-In,B79,1108,21
+United Check-In,B80,1109,21
+United Check-In,B81,1110,21
+United Check-In,B83,1112,21
+United Check-In,B85,1155,22
+United Check-In,B86,1155,22
+United Check-In,B86A,1155,22
+United Check-In,B87,1156,22
+United Check-In,B88,1157,22
+United Check-In,B11,1217,23
+United Check-In,B1,1271,24
+United Check-In,B10,1286,24
+United Check-In,B2,1305,25
+United Check-In,B9,1320,25
+United Check-In,B3,1343,25
+United Check-In,B8,1359,25
+United Check-In,B4,1379,26
+United Check-In,B7,1393,26
+United Check-In,B6,1390,26
+United Check-In,B5,1394,26
+United Check-In,B20,1188,23
+United Check-In,B12,1201,23
+United Check-In,B19,1206,23
+United Check-In,B14,1235,23
+United Check-In,B18,1243,23
+United Check-In,B15,1262,24
+United Check-In,B17,1275,24
+United Check-In,B16,1271,24
+United Check-In,B21,1236,23
+United Check-In,B31,1261,24
+United Check-In,B30,1283,24
+United Check-In,B22,1304,25
+United Check-In,B29,1322,25
+United Check-In,B23,1341,25
+United Check-In,B28,1357,25
+United Check-In,B24,1381,26
+United Check-In,B27,1393,26
+United Check-In,B26,1394,26
+United Check-In,B25,1397,26
+United Check-In,B85A,1155,22
+United Check-In,B83A ,unknown,unknown
+United Check-In,B81A,1110,21
+United Check-In,B77A,1109,21
+United Check-In,B76A,1112,21
+United Check-In,B79A,1108,21
+United Check-In,C1,327,14
+United Check-In,C2,384,15
+United Check-In,C29,463,16
+United Check-In,C30,467,16
+United Check-In,C31,443,16
+United Check-In,C32,407,15
+United Check-In,C33,370,15
+United Check-In,C34,331,14
+United Check-In,C35,365,15
+United Check-In,C36,399,15
+United Check-In,C37,420,16
+United Check-In,C39,427,16
+United Check-In,C40,410,16
+United Check-In,C41,381,15
+United Check-In,C42,348,14
+United Check-In,C43,353,15
+United Check-In,C44,396,15
+United Check-In,C45,434,16
+United Check-In,C3,420,16
+United Check-In,C4,575,18
+United Check-In,C5,613,19
+United Check-In,C6,671,20
+United Check-In,C7,708,20
+United Check-In,C8,708,20
+United Check-In,C9,703,20
+United Check-In,C10,661,20
+United Check-In,C11,624,19
+United Check-In,C12,557,18
+United Check-In,C14,602,19
+United Check-In,C15,653,20
+United Check-In,D1,343,14
+United Check-In,D2,372,15
+United Check-In,D3,392,15
+United Check-In,D4,574,18
+United Check-In,D5,573,18
+United Check-In,D6,626,19
+United Check-In,D7,969,20
+United Check-In,D8,983,20
+United Check-In,D9,1045,21
+United Check-In,D10,1105,22
+United Check-In,D11,1104,22
+United Check-In,D12,1101,22
+United Check-In,D9A,1049,21
+United Check-In,E1,1291,25
+United Check-In,E2,1311,25
+United Check-In,E3,1329,26
+United Check-In,E4,1372,26
+United Check-In,E5,1400,27
+United Check-In,E6,1393,27
+United Check-In,E7,1393,27
+United Check-In,E8,1359,26
+United Check-In,E9,1324,26
+United Check-In,E10,1158,23
+United Check-In,E11,1143,23
+United Check-In,E12,1066,21
+United Check-In,E14,1110,22
+United Check-In,E24,1195,23
+United Check-In,E23,1220,24
+United Check-In,E15,1248,24
+United Check-In,E16,1295,25
+United Check-In,E17,1318,25
+United Check-In,E18,1357,26
+United Check-In,E19,1348,26
+United Check-In,E20,1306,25
+United Check-In,E21,1290,25
+United Check-In,E22,1263,25
+InMotion Entertainment,A3H,unknown,unknown
+InMotion Entertainment,A3G,unknown,unknown
+InMotion Entertainment,A3F,unknown,unknown
+InMotion Entertainment,A3E,unknown,unknown
+InMotion Entertainment,A3D,unknown,unknown
+InMotion Entertainment,A3C,unknown,unknown
+InMotion Entertainment,A3B,unknown,unknown
+InMotion Entertainment,A3A,unknown,unknown
+InMotion Entertainment,A15,unknown,unknown
+InMotion Entertainment,A14,unknown,unknown
+InMotion Entertainment,A12,unknown,unknown
+InMotion Entertainment,A11,unknown,unknown
+InMotion Entertainment,A10,unknown,unknown
+InMotion Entertainment,A9,unknown,unknown
+InMotion Entertainment,A8,unknown,unknown
+InMotion Entertainment,A7,unknown,unknown
+InMotion Entertainment,A2,unknown,unknown
+InMotion Entertainment,A1,unknown,unknown
+InMotion Entertainment,A17,unknown,unknown
+InMotion Entertainment,A18,unknown,unknown
+InMotion Entertainment,A19,unknown,unknown
+InMotion Entertainment,A20,unknown,unknown
+InMotion Entertainment,A24,unknown,unknown
+InMotion Entertainment,A25,unknown,unknown
+InMotion Entertainment,A26,unknown,unknown
+InMotion Entertainment,A27,unknown,unknown
+InMotion Entertainment,A29,unknown,unknown
+InMotion Entertainment,A30,unknown,unknown
+InMotion Entertainment,B76,unknown,unknown
+InMotion Entertainment,B77,unknown,unknown
+InMotion Entertainment,B79,unknown,unknown
+InMotion Entertainment,B80,unknown,unknown
+InMotion Entertainment,B81,unknown,unknown
+InMotion Entertainment,B83,unknown,unknown
+InMotion Entertainment,B85,unknown,unknown
+InMotion Entertainment,B86,unknown,unknown
+InMotion Entertainment,B86A,unknown,unknown
+InMotion Entertainment,B87,unknown,unknown
+InMotion Entertainment,B88,unknown,unknown
+InMotion Entertainment,B11,unknown,unknown
+InMotion Entertainment,B1,unknown,unknown
+InMotion Entertainment,B10,unknown,unknown
+InMotion Entertainment,B2,unknown,unknown
+InMotion Entertainment,B9,unknown,unknown
+InMotion Entertainment,B3,unknown,unknown
+InMotion Entertainment,B8,unknown,unknown
+InMotion Entertainment,B4,unknown,unknown
+InMotion Entertainment,B7,unknown,unknown
+InMotion Entertainment,B6,unknown,unknown
+InMotion Entertainment,B5,unknown,unknown
+InMotion Entertainment,B20,unknown,unknown
+InMotion Entertainment,B12,unknown,unknown
+InMotion Entertainment,B19,unknown,unknown
+InMotion Entertainment,B14,unknown,unknown
+InMotion Entertainment,B18,unknown,unknown
+InMotion Entertainment,B15,unknown,unknown
+InMotion Entertainment,B17,unknown,unknown
+InMotion Entertainment,B16,unknown,unknown
+InMotion Entertainment,B21,unknown,unknown
+InMotion Entertainment,B31,unknown,unknown
+InMotion Entertainment,B30,unknown,unknown
+InMotion Entertainment,B22,unknown,unknown
+InMotion Entertainment,B29,unknown,unknown
+InMotion Entertainment,B23,unknown,unknown
+InMotion Entertainment,B28,unknown,unknown
+InMotion Entertainment,B24,unknown,unknown
+InMotion Entertainment,B27,unknown,unknown
+InMotion Entertainment,B26,unknown,unknown
+InMotion Entertainment,B25,unknown,unknown
+InMotion Entertainment,B85A,unknown,unknown
+InMotion Entertainment,B83A ,unknown,unknown
+InMotion Entertainment,B81A,unknown,unknown
+InMotion Entertainment,B77A,unknown,unknown
+InMotion Entertainment,B76A,unknown,unknown
+InMotion Entertainment,B79A,unknown,unknown
+InMotion Entertainment,C1,unknown,unknown
+InMotion Entertainment,C2,unknown,unknown
+InMotion Entertainment,C29,unknown,unknown
+InMotion Entertainment,C30,unknown,unknown
+InMotion Entertainment,C31,unknown,unknown
+InMotion Entertainment,C32,unknown,unknown
+InMotion Entertainment,C33,unknown,unknown
+InMotion Entertainment,C34,unknown,unknown
+InMotion Entertainment,C35,unknown,unknown
+InMotion Entertainment,C36,unknown,unknown
+InMotion Entertainment,C37,unknown,unknown
+InMotion Entertainment,C39,unknown,unknown
+InMotion Entertainment,C40,unknown,unknown
+InMotion Entertainment,C41,unknown,unknown
+InMotion Entertainment,C42,unknown,unknown
+InMotion Entertainment,C43,unknown,unknown
+InMotion Entertainment,C44,unknown,unknown
+InMotion Entertainment,C45,unknown,unknown
+InMotion Entertainment,C3,unknown,unknown
+InMotion Entertainment,C4,unknown,unknown
+InMotion Entertainment,C5,unknown,unknown
+InMotion Entertainment,C6,unknown,unknown
+InMotion Entertainment,C7,unknown,unknown
+InMotion Entertainment,C8,unknown,unknown
+InMotion Entertainment,C9,unknown,unknown
+InMotion Entertainment,C10,unknown,unknown
+InMotion Entertainment,C11,unknown,unknown
+InMotion Entertainment,C12,unknown,unknown
+InMotion Entertainment,C14,unknown,unknown
+InMotion Entertainment,C15,unknown,unknown
+InMotion Entertainment,D1,unknown,unknown
+InMotion Entertainment,D2,unknown,unknown
+InMotion Entertainment,D3,unknown,unknown
+InMotion Entertainment,D4,unknown,unknown
+InMotion Entertainment,D5,unknown,unknown
+InMotion Entertainment,D6,unknown,unknown
+InMotion Entertainment,D7,unknown,unknown
+InMotion Entertainment,D8,unknown,unknown
+InMotion Entertainment,D9,unknown,unknown
+InMotion Entertainment,D10,unknown,unknown
+InMotion Entertainment,D11,unknown,unknown
+InMotion Entertainment,D12,unknown,unknown
+InMotion Entertainment,D9A,unknown,unknown
+InMotion Entertainment,E1,unknown,unknown
+InMotion Entertainment,E2,unknown,unknown
+InMotion Entertainment,E3,unknown,unknown
+InMotion Entertainment,E4,unknown,unknown
+InMotion Entertainment,E5,unknown,unknown
+InMotion Entertainment,E6,unknown,unknown
+InMotion Entertainment,E7,unknown,unknown
+InMotion Entertainment,E8,unknown,unknown
+InMotion Entertainment,E9,unknown,unknown
+InMotion Entertainment,E10,unknown,unknown
+InMotion Entertainment,E11,unknown,unknown
+InMotion Entertainment,E12,unknown,unknown
+InMotion Entertainment,E14,unknown,unknown
+InMotion Entertainment,E24,unknown,unknown
+InMotion Entertainment,E23,unknown,unknown
+InMotion Entertainment,E15,unknown,unknown
+InMotion Entertainment,E16,unknown,unknown
+InMotion Entertainment,E17,unknown,unknown
+InMotion Entertainment,E18,unknown,unknown
+InMotion Entertainment,E19,unknown,unknown
+InMotion Entertainment,E20,unknown,unknown
+InMotion Entertainment,E21,unknown,unknown
+InMotion Entertainment,E22,unknown,unknown
+Emirates Check-in,A3H,2164,30
+Emirates Check-in,A3G,2183,30
+Emirates Check-in,A3F,2195,30
+Emirates Check-in,A3E,2234,31
+Emirates Check-in,A3D,2270,32
+Emirates Check-in,A3C,2263,32
+Emirates Check-in,A3B,2249,31
+Emirates Check-in,A3A,2214,31
+Emirates Check-in,A15,2317,32
+Emirates Check-in,A14,2329,32
+Emirates Check-in,A12,2293,32
+Emirates Check-in,A11,2269,31
+Emirates Check-in,A10,2256,31
+Emirates Check-in,A9,2239,31
+Emirates Check-in,A8,2211,30
+Emirates Check-in,A7,2179,30
+Emirates Check-in,A2,2110,29
+Emirates Check-in,A1,2069,28
+Emirates Check-in,A17,2351,33
+Emirates Check-in,A18,2381,33
+Emirates Check-in,A19,2390,33
+Emirates Check-in,A20,2380,33
+Emirates Check-in,A24,2373,33
+Emirates Check-in,A25,2265,31
+Emirates Check-in,A26,2299,31
+Emirates Check-in,A27,2336,32
+Emirates Check-in,A29,2342,32
+Emirates Check-in,A30,2347,32
+Emirates Check-in,B76,1754,26
+Emirates Check-in,B77,1751,26
+Emirates Check-in,B79,1750,26
+Emirates Check-in,B80,1751,26
+Emirates Check-in,B81,1752,26
+Emirates Check-in,B83,1855,28
+Emirates Check-in,B85,1897,29
+Emirates Check-in,B86,1897,29
+Emirates Check-in,B86A,1897,29
+Emirates Check-in,B87,1898,29
+Emirates Check-in,B88,1899,29
+Emirates Check-in,B11,1892,29
+Emirates Check-in,B1,1913,29
+Emirates Check-in,B10,1928,29
+Emirates Check-in,B2,1947,29
+Emirates Check-in,B9,1962,30
+Emirates Check-in,B3,1985,30
+Emirates Check-in,B8,2001,30
+Emirates Check-in,B4,2020,31
+Emirates Check-in,B7,2035,31
+Emirates Check-in,B6,2032,31
+Emirates Check-in,B5,2036,31
+Emirates Check-in,B20,1830,27
+Emirates Check-in,B12,1843,28
+Emirates Check-in,B19,1848,28
+Emirates Check-in,B14,1877,28
+Emirates Check-in,B18,1885,28
+Emirates Check-in,B15,1904,29
+Emirates Check-in,B17,1917,29
+Emirates Check-in,B16,1913,29
+Emirates Check-in,B21,1878,28
+Emirates Check-in,B31,1902,29
+Emirates Check-in,B30,1925,29
+Emirates Check-in,B22,1946,29
+Emirates Check-in,B29,1963,30
+Emirates Check-in,B23,1983,30
+Emirates Check-in,B28,1999,30
+Emirates Check-in,B24,2022,31
+Emirates Check-in,B27,2035,31
+Emirates Check-in,B26,2036,31
+Emirates Check-in,B25,2039,31
+Emirates Check-in,B85A,1797,27
+Emirates Check-in,B83A ,unknown,unknown
+Emirates Check-in,B81A,1752,26
+Emirates Check-in,B77A,1751,26
+Emirates Check-in,B76A,1754,26
+Emirates Check-in,B79A,1750,26
+Emirates Check-in,C1,969,19
+Emirates Check-in,C2,1026,20
+Emirates Check-in,C29,1105,21
+Emirates Check-in,C30,1109,21
+Emirates Check-in,C31,1085,21
+Emirates Check-in,C32,1049,20
+Emirates Check-in,C33,1012,20
+Emirates Check-in,C34,973,19
+Emirates Check-in,C35,1007,20
+Emirates Check-in,C36,1041,20
+Emirates Check-in,C37,1062,21
+Emirates Check-in,C39,1069,21
+Emirates Check-in,C40,1052,20
+Emirates Check-in,C41,1023,20
+Emirates Check-in,C42,990,19
+Emirates Check-in,C43,995,19
+Emirates Check-in,C44,1038,20
+Emirates Check-in,C45,1076,21
+Emirates Check-in,C3,1062,21
+Emirates Check-in,C4,1217,23
+Emirates Check-in,C5,1255,24
+Emirates Check-in,C6,1313,25
+Emirates Check-in,C7,1350,25
+Emirates Check-in,C8,1350,25
+Emirates Check-in,C9,1345,25
+Emirates Check-in,C10,1303,25
+Emirates Check-in,C11,1266,24
+Emirates Check-in,C12,1199,23
+Emirates Check-in,C14,1244,29
+Emirates Check-in,C15,1295,29
+Emirates Check-in,D1,985,24
+Emirates Check-in,D2,1014,25
+Emirates Check-in,D3,1034,25
+Emirates Check-in,D4,300,5
+Emirates Check-in,D5,299,5
+Emirates Check-in,D6,242,4
+Emirates Check-in,D7,245,4
+Emirates Check-in,D8,316,5
+Emirates Check-in,D9,379,6
+Emirates Check-in,D10,439,7
+Emirates Check-in,D11,438,7
+Emirates Check-in,D12,434,7
+Emirates Check-in,D9A,383,6
+Emirates Check-in,E1,759,12
+Emirates Check-in,E2,779,13
+Emirates Check-in,E3,796,13
+Emirates Check-in,E4,839,14
+Emirates Check-in,E5,867,14
+Emirates Check-in,E6,861,14
+Emirates Check-in,E7,861,14
+Emirates Check-in,E8,826,13
+Emirates Check-in,E9,791,13
+Emirates Check-in,E10,626,10
+Emirates Check-in,E11,610,10
+Emirates Check-in,E12,534,9
+Emirates Check-in,E14,577,9
+Emirates Check-in,E24,662,11
+Emirates Check-in,E23,688,11
+Emirates Check-in,E15,715,12
+Emirates Check-in,E16,763,12
+Emirates Check-in,E17,786,13
+Emirates Check-in,E18,824,13
+Emirates Check-in,E19,816,13
+Emirates Check-in,E20,774,13
+Emirates Check-in,E21,757,12
+Emirates Check-in,E22,730,12
